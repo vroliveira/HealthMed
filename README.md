@@ -10,7 +10,7 @@ O Sistema de Agendamento (Health&Med) é uma plataforma que permite que o pacien
 
 
 ## Repositories
-* ASP.NET CORE BLAZOR  [link](https://dev.azure.com/diegoivanmendesfiap/_git/Hackathon)
+* ASP.NET CORE BLAZOR  [link](https://github.com/vroliveira/HealthMed)
 * Teste de Interações de Lógicas de negócio, camadas de aplicação e banco de dados [link](https://dev.azure.com/diegoivanmendesfiap/_git/Hackathon/HealthMed.Tests)
 
 ## Development 
